@@ -1,0 +1,8 @@
+/home/noman-shafique/Training/GccAndCMakeTasks/CmakeTasks/CMaketask1/build/CMakeFiles/edit_cache.dir
+/home/noman-shafique/Training/GccAndCMakeTasks/CmakeTasks/CMaketask1/build/CMakeFiles/rebuild_cache.dir
+/home/noman-shafique/Training/GccAndCMakeTasks/CmakeTasks/CMaketask1/build/src/CMakeFiles/mymath.dir
+/home/noman-shafique/Training/GccAndCMakeTasks/CmakeTasks/CMaketask1/build/src/CMakeFiles/edit_cache.dir
+/home/noman-shafique/Training/GccAndCMakeTasks/CmakeTasks/CMaketask1/build/src/CMakeFiles/rebuild_cache.dir
+/home/noman-shafique/Training/GccAndCMakeTasks/CmakeTasks/CMaketask1/build/app/CMakeFiles/MyProject.dir
+/home/noman-shafique/Training/GccAndCMakeTasks/CmakeTasks/CMaketask1/build/app/CMakeFiles/edit_cache.dir
+/home/noman-shafique/Training/GccAndCMakeTasks/CmakeTasks/CMaketask1/build/app/CMakeFiles/rebuild_cache.dir
